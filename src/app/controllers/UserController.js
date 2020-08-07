@@ -7,7 +7,7 @@ export default {
     const user = {
       name,
       email,
-      password: passwordGenerator(15, false);
+      password: passwordGenerator(15, false)
     };
 
     return res.json(user);
