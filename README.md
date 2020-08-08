@@ -20,7 +20,7 @@
 
 ## 📚 Sobre
 
-Esse projeto simula cadastros de usuário e envio de e-mail de confirmação de cadastro como tarefa em background. O proejto foi desenvolvido para praticar e aplicar conceitos de processamento assíncrono de tarefas utilizando [Node.js](https://nodejs.org/en/) e [Redis](https://redis.io/).
+Esse projeto simula cadastros de usuário e envio de e-mail de confirmação de cadastro como tarefa em background. O projeto foi desenvolvido durante o bootcamp Desenvolvimento Node.js da [Digital Innovation One](https://digitalinnovation.one/) para praticar e aplicar conceitos de processamento assíncrono de tarefas utilizando [Node.js](https://nodejs.org/en/) e [Redis](https://redis.io/).
 
 
 ## 🚀 Tecnologias
